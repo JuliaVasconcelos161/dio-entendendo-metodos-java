@@ -1,7 +1,8 @@
-package com.github.juliavasconcelos161.entendendometodos.sobrecarga;
+package com.github.juliavasconcelos161.entendendometodos.sobrecargaeretornos;
 
 /*Crie uma aplicação que calcula a área dos 3 quadriláteros notáveis: quadrado, retângulo e trapézio
-* Utilize sobrecarga*/
+* Utilize sobrecarga
+* Utilize retornos*/
 public class TesteArea3Quadrilateros {
     public static void main(String[] args) {
 
